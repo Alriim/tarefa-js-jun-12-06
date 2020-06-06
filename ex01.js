@@ -1,0 +1,6 @@
+let a = "#"; let b = "";
+let i;
+for(i=0;i<7;i++){
+    console.log(b);
+    b=b+a
+}
